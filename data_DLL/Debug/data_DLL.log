@@ -1,0 +1,5 @@
+﻿  pch.cpp
+C:\Users\Lenovo\source\repos\data_DLL\pch.cpp(26,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  dllmain.cpp
+    正在创建库 C:\Users\Lenovo\source\repos\data_DLL\Debug\data_DLL.lib 和对象 C:\Users\Lenovo\source\repos\data_DLL\Debug\data_DLL.exp
+  data_DLL.vcxproj -> C:\Users\Lenovo\source\repos\data_DLL\Debug\data_DLL.dll

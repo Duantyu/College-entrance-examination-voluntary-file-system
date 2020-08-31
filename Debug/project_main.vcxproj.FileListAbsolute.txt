@@ -1,0 +1,2 @@
+C:\Users\Lenovo\source\repos\project_main\Debug\project_main.exe
+C:\Users\Lenovo\source\repos\project_main\Debug\project_main.pdb

@@ -1,0 +1,4 @@
+﻿  project_main.cpp
+C:\Users\Lenovo\source\repos\project_main\project_main.cpp(197,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\project_main\project_main.cpp(201,76): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  project_main.vcxproj -> C:\Users\Lenovo\source\repos\project_main\Debug\project_main.exe
